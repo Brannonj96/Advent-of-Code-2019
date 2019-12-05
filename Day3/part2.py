@@ -1,6 +1,7 @@
 from input import x,y
 
-#Same idea as part 1 except now we keep track of 
+#Same idea as part 1 except now we keep track of the distance traveled and store it in a dictionary.  Then just keep track
+#of the min distance to a point we already visited
 def main():
     wire1 = x
     wire2 = y
